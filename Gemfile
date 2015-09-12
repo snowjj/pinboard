@@ -26,6 +26,8 @@ gem 'devise', '~> 3.5.2'
 
 gem 'paperclip', '~> 4.3.1'
 
+gem 'masonry-rails', '~> 0.2.4'
+
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
